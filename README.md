@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Townsend Digital
-- 🌱 I’m currently learning React ecosystem
+- 🌱 I’m currently learning React.js and Next.js ecosystems
 - 👯 I’m looking to collaborate on web full stack
 - 💬 Ask me about ... 
 - ⚡ Fun fact: I love giving gifts, it's much more interesting than receiving them.
