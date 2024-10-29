@@ -3,7 +3,6 @@
 [Linkedin](https://www.linkedin.com/in/alex-makovetskiy/)
 
 
-- 🔭 I’m currently working on Townsend Digital
 - 🌱 I’m currently learning React.js and Next.js ecosystems
 - 👯 I’m looking to collaborate on web full stack
 - 💬 Ask me about ... 
